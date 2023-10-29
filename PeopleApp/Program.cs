@@ -159,3 +159,5 @@ foreach (int i in ints)
 {
     Console.WriteLine(i);
 }
+
+string hello = "test";
